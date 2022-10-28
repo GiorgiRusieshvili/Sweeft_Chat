@@ -1,5 +1,5 @@
 # Sweeft_Chat
-how ro start chatting
+how to start chatting:
 
 1. to start chatting you must start the server.java at first.
 
